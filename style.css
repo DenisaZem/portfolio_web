@@ -74,17 +74,24 @@ header {
       @media (max-width: 768px) {
         .logo h1 {
           letter-spacing: 5px;
-          font-size: 1rem; } }
+          font-size: 1rem;
+         } 
+        }
 
     .logo span {
       color: #fff;
       letter-spacing: 5px;
-      flex-wrap: wrap; }
+      flex-wrap: wrap;
+      margin-right: 10px;
+     }
 
       @media (max-width: 768px) {
         .logo span {
           letter-spacing: 4px;
-          font-size: 0.8rem; } }
+          font-size: 0.8rem;
+
+     } 
+    }
   
   .menu {
     list-style: none;
